@@ -1,5 +1,3 @@
 # PSI-Numerical-Methods-2024-MCMC-Homework
-
-Homework assignment on MCMC, for PSI Numerical Methods 2024
-
-Please read the MCMC-homework-assignment.ipynb notebook for instructions!
+ Homework for MCMC practice could be checked in MCMC-homework-assignment file. 
+## Note: I use GLMakie. If you want to run it in cloud, try WGLMakie if basic GLMakie not working.
