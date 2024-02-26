@@ -4,7 +4,7 @@
 Student number:
 21050967
 
-# To evaluate the homework 2 visit folder HHW-2-PSI --> HW2_working.ipynb
+# To evaluate a non-Interview option go to Non-Interview_Option folder
 
 
 PSI course called Numerical Methods has given a lot of knowledge and practice using Julia for math, statistics, astronomy and quantum physics. 
